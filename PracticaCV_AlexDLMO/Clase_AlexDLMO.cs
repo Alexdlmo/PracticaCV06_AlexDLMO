@@ -8,5 +8,18 @@ namespace PracticaCV_AlexDLMO
 {
     internal class Clase_AlexDLMO
     {
+
+        // CONSTANTES
+
+        // CONSTRUCTORES
+
+        // PROPIEDADES
+
+        // MIEMBROS PRIVADOS
+
+        // MÉTODOS PRIVADOS 
+
+        // MÉTODOS PÚBLICOS
+
     }
 }
